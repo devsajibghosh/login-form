@@ -108,10 +108,9 @@ h2{
 }
 .register_link p a{
   text-decoration: none;
-  color: #fff;
+  color: #ffffff;
   font-weight: 600;
 }
 .register_link p a:hover{
   text-decoration: underline;
 }
-
